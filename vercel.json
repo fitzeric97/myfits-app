@@ -1,0 +1,7 @@
+{
+  "framework": "nextjs",
+  "buildCommand": "npm run build",
+  "env": {
+    "NEXT_PUBLIC_GOOGLE_CLIENT_ID": "285808769366-hg248jhhirmhprj86ntfv0ks3306p6bp.apps.googleusercontent.com"
+  }
+}
